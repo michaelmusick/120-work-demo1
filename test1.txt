@@ -6,10 +6,11 @@ This is my first text document for one of Dr. Musick's Media Arts courses.
 
 This is for the git diff.
 
-Other changes
-
 Making some more changes for the git video demo!!!!!
 
 
 
 More changes for git diff demo!
+
+
+I AM NOT MAKING CHANGES TO DEMO GITHUB DESKTOP!
