@@ -3,8 +3,13 @@ Date: Sept. 10th, 2017
 
 This is my first text document for one of Dr. Musick's Media Arts courses.
 
-I added a new line to this file in my text editor!!!!
+
+This is for the git diff.
 
 Other changes
 
 Making some more changes for the git video demo!!!!!
+
+
+
+More changes for git diff demo!
