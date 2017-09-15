@@ -8,6 +8,7 @@ This is for the git diff.
 
 Making some more changes for the git video demo!!!!!
 
+This is a change for GitHub.com.
 
 
 More changes for git diff demo!
